@@ -1,0 +1,10 @@
+dataset
+1. initialization
+1) check if directory exists. if not, create; if exist, check if format is correct; if correct, build up reference?
+   if no correct, what to do?
+2) add_data: do we really need this function? we could just run through the directory to see what's new right?
+3) balance: the may come in handy, but must do so in a way that does not remove any data from directory
+4) basic functions: __len__, __iter__
+
+TODO:
+5) get a store GT function out there
