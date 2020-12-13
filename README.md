@@ -1,10 +1,14 @@
-# senteradev3
+# Plants
 
 The goal of this project is to evaluate the healthiness of plants in a given tuple of pictures. In each tuple there will be one RGB picture and one NIR picture.
 
 ## Motivation
 
-The project originates from an idea to use Hololens for plant health detection. The complexity of that idea however, was beyond expectation. The project was thus reduced to a purely computer based evalution of plant health. 
+The project originates from an idea to use Hololens for plant health detection. The complexity of that idea however, was beyond expectation. The project was thus reduced to a purely computer based evalution of plant health.
+
+## Current Direction 
+
+Detection of plants in RGB images -> Recognition of plant type in RGB images. 
 
 ## Technical Challenges
 
@@ -18,4 +22,6 @@ This project applied a neural network to find an optimal function that resembles
 
 python Model1.py
 
+## Referenced Materials
 
+A Field Guide to Trees and Shrubs - George A. Petrides
