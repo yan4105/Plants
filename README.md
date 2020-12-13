@@ -2,7 +2,7 @@
 
 The goal of this project is to evaluate the healthiness of plants in a given tuple of pictures. In each tuple there will be one RGB picture and one NIR picture.
 
-## Project History
+## Motivation
 
 The project originates from an idea to use Hololens for plant health detection. The complexity of that idea however, was beyond expectation. The project was thus reduced to a purely computer based evalution of plant health. 
 
